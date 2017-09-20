@@ -1,1 +1,1 @@
-# docSimilarityTests
+# Test Files for Document Similarity
