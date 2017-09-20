@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/CPEN-221/docSimilarityTests/master/aliens.txt
+https://raw.githubusercontent.com/CPEN-221/docSimilarityTests/master/cthulhu.txt
+https://raw.githubusercontent.com/CPEN-221/docSimilarityTests/master/sonnets.txt
+https://raw.githubusercontent.com/CPEN-221/docSimilarityTests/master/beatles.txt
+https://raw.githubusercontent.com/CPEN-221/docSimilarityTests/master/police-practices.txt
